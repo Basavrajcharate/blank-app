@@ -1,1 +1,5 @@
 streamlit
+pennylane
+scikit-learn
+matplotlib
+numpy
